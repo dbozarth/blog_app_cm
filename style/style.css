@@ -1,0 +1,24 @@
+.givemesomeroom {
+    margin-top: 30px;
+    margin-bottom: 5px
+}
+
+.givemesomeroom2 {
+    margin-top: 20px;
+}
+
+.makemetall {
+    height: 100px;
+    overflow: auto;
+    resize: none;
+}
+
+.left_margin {
+    margin-left: 30px;
+    color: crimson;
+}
+
+.right_margin {
+    margin-left: 20px;
+    color: crimson;
+}
