@@ -7,6 +7,19 @@
     margin-top: 20px;
 }
 
+.flexme {
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+    padding: 20px;
+}
+
+.flexme2 {
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+}
+
 .makemetall {
     height: 100px;
     overflow: auto;
@@ -21,4 +34,12 @@
 .right_margin {
     margin-left: 20px;
     color: crimson;
+}
+
+.white_icons {
+    color: white;
+}
+
+.nodec {
+    text-underline-position: unset;
 }
